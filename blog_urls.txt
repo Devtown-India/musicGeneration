@@ -1,0 +1,16 @@
+https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806
+
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+
+https://medium.com/analytics-vidhya/music-generation-using-deep-learning-a2b2848ab177
+
+https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
+
+
+
+#########################################################################################
+
+models used
+1. wavenet
+2. lstm
+3. char-rnn

@@ -1,0 +1,10 @@
+ABC format url :- http://abc.sourceforge.net/NMD/
+MIDI format url :- http://www.piano-midi.de/
+
+other music dataset :- http://musedata.stanford.edu/
+tabla music dataset :- https://compmusic.upf.edu/tabla-solo-dataset(.wav format)
+indian music dataset :- https://compmusic.upf.edu/datasets
+
+deep learning datasets :- http://deeplearning.net/datasets/
+
+
