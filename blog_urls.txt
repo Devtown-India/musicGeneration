@@ -14,3 +14,7 @@ models used
 1. wavenet
 2. lstm
 3. char-rnn
+
+
+url to play midi files :- http://midiplayer.ehubsoft.net/
+
